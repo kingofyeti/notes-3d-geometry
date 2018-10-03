@@ -1,0 +1,61 @@
+\BOOKMARK [1][-]{section.1}{Fundamental matrix properties}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Conjugate/Hermitian transpose}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Orthogonal matrix and unitary matrix}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Matrix trace}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Symmetric matrix}{section.1}% 5
+\BOOKMARK [3][-]{subsubsection.1.4.1}{Positive-definite symmetric matrix}{subsection.1.4}% 6
+\BOOKMARK [3][-]{subsubsection.1.4.2}{Skew-symmetric matrix}{subsection.1.4}% 7
+\BOOKMARK [2][-]{subsection.1.5}{Matrix decomposition}{section.1}% 8
+\BOOKMARK [3][-]{subsubsection.1.5.1}{QR and RQ decomposition}{subsection.1.5}% 9
+\BOOKMARK [3][-]{subsubsection.1.5.2}{Singular value decomposition \(SVD\)}{subsection.1.5}% 10
+\BOOKMARK [3][-]{subsubsection.1.5.3}{Eigenvalue decomposition}{subsection.1.5}% 11
+\BOOKMARK [3][-]{subsubsection.1.5.4}{Cholesky decomposition}{subsection.1.5}% 12
+\BOOKMARK [1][-]{section.2}{Rotation matrix}{}% 13
+\BOOKMARK [2][-]{subsection.2.1}{Conversion between different forms of a rotation}{section.2}% 14
+\BOOKMARK [3][-]{subsubsection.2.1.1}{From rotation matrix to angle and axis}{subsection.2.1}% 15
+\BOOKMARK [3][-]{subsubsection.2.1.2}{From rotation angle and axis to rotation matrix}{subsection.2.1}% 16
+\BOOKMARK [2][-]{subsection.2.2}{Quaternion and spatial rotation}{section.2}% 17
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Definition}{subsection.2.2}% 18
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Features and properties}{subsection.2.2}% 19
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Comparison between quaternion and common rotation matrix}{subsection.2.2}% 20
+\BOOKMARK [2][-]{subsection.2.3}{Skew-symmetric matrix and rotation}{section.2}% 21
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Eigenvalue decomposition}{subsection.2.3}% 22
+\BOOKMARK [3][-]{subsubsection.2.3.2}{3-vector's skew-symmetric form}{subsection.2.3}% 23
+\BOOKMARK [3][-]{subsubsection.2.3.3}{Relationship between skew-symmetric matrix and rotation}{subsection.2.3}% 24
+\BOOKMARK [3][-]{subsubsection.2.3.4}{Geometric interpretation of 3-by-3 skew-symmetric rotation}{subsection.2.3}% 25
+\BOOKMARK [3][-]{subsubsection.2.3.5}{Specific form of skew-symmetric rotation}{subsection.2.3}% 26
+\BOOKMARK [1][-]{section.3}{Linear Least-squares minimization}{}% 27
+\BOOKMARK [1][-]{section.4}{Non-linear minimization: iterative estimation}{}% 28
+\BOOKMARK [2][-]{subsection.4.1}{Newton iteration}{section.4}% 29
+\BOOKMARK [2][-]{subsection.4.2}{Weighted iteration}{section.4}% 30
+\BOOKMARK [2][-]{subsection.4.3}{Gauss-Newton method}{section.4}% 31
+\BOOKMARK [2][-]{subsection.4.4}{Gradient descent method}{section.4}% 32
+\BOOKMARK [2][-]{subsection.4.5}{Levenberg-Marquardt method}{section.4}% 33
+\BOOKMARK [1][-]{section.5}{2D projective geometry and transformation}{}% 34
+\BOOKMARK [2][-]{subsection.5.1}{Line and point}{section.5}% 35
+\BOOKMARK [3][-]{subsubsection.5.1.1}{Definition and properties}{subsection.5.1}% 36
+\BOOKMARK [3][-]{subsubsection.5.1.2}{Intersection}{subsection.5.1}% 37
+\BOOKMARK [3][-]{subsubsection.5.1.3}{Points at infinity and line at infinity}{subsection.5.1}% 38
+\BOOKMARK [2][-]{subsection.5.2}{Projective transformations}{section.5}% 39
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Projective transformation between planes}{subsection.5.2}% 40
+\BOOKMARK [2][-]{subsection.5.3}{Conics}{section.5}% 41
+\BOOKMARK [3][-]{subsubsection.5.3.1}{Duality and dual conics}{subsection.5.3}% 42
+\BOOKMARK [3][-]{subsubsection.5.3.2}{Transformed conic}{subsection.5.3}% 43
+\BOOKMARK [3][-]{subsubsection.5.3.3}{The pole-polar relationship}{subsection.5.3}% 44
+\BOOKMARK [2][-]{subsection.5.4}{A hierarchy of projective transformations}{section.5}% 45
+\BOOKMARK [3][-]{subsubsection.5.4.1}{Isometries}{subsection.5.4}% 46
+\BOOKMARK [3][-]{subsubsection.5.4.2}{Similarity transformations}{subsection.5.4}% 47
+\BOOKMARK [3][-]{subsubsection.5.4.3}{Affine transformations}{subsection.5.4}% 48
+\BOOKMARK [3][-]{subsubsection.5.4.4}{Projective transformations}{subsection.5.4}% 49
+\BOOKMARK [2][-]{subsection.5.5}{Remove projective distortion from a perspective image of a global plane}{section.5}% 50
+\BOOKMARK [3][-]{subsubsection.5.5.1}{Remove entire projective distortion}{subsection.5.5}% 51
+\BOOKMARK [3][-]{subsubsection.5.5.2}{Affine rectification}{subsection.5.5}% 52
+\BOOKMARK [3][-]{subsubsection.5.5.3}{Metric rectification}{subsection.5.5}% 53
+\BOOKMARK [1][-]{section.6}{3D projective geometry and transformation}{}% 54
+\BOOKMARK [2][-]{subsection.6.1}{3D Points and planes}{section.6}% 55
+\BOOKMARK [2][-]{subsection.6.2}{Quadrics}{section.6}% 56
+\BOOKMARK [2][-]{subsection.6.3}{The hierarchy of 3D Projective transformation}{section.6}% 57
+\BOOKMARK [2][-]{subsection.6.4}{Remove 3D projective distortions}{section.6}% 58
+\BOOKMARK [3][-]{subsubsection.6.4.1}{Plane at infinity}{subsection.6.4}% 59
+\BOOKMARK [3][-]{subsubsection.6.4.2}{Absolute conic}{subsection.6.4}% 60
+\BOOKMARK [3][-]{subsubsection.6.4.3}{Absolute dual conic}{subsection.6.4}% 61

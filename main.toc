@@ -1,0 +1,61 @@
+\contentsline {section}{\numberline {1}Fundamental matrix properties}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Conjugate/Hermitian transpose}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Orthogonal matrix and unitary matrix}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Matrix trace}{4}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Symmetric matrix}{4}{subsection.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1}Positive-definite symmetric matrix}{4}{subsubsection.1.4.1}
+\contentsline {subsubsection}{\numberline {1.4.2}Skew-symmetric matrix}{5}{subsubsection.1.4.2}
+\contentsline {subsection}{\numberline {1.5}Matrix decomposition}{5}{subsection.1.5}
+\contentsline {subsubsection}{\numberline {1.5.1}QR and RQ decomposition}{5}{subsubsection.1.5.1}
+\contentsline {subsubsection}{\numberline {1.5.2}Singular value decomposition (SVD)}{5}{subsubsection.1.5.2}
+\contentsline {subsubsection}{\numberline {1.5.3}Eigenvalue decomposition}{6}{subsubsection.1.5.3}
+\contentsline {subsubsection}{\numberline {1.5.4}Cholesky decomposition}{6}{subsubsection.1.5.4}
+\contentsline {section}{\numberline {2}Rotation matrix}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}Conversion between different forms of a rotation}{7}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}From rotation matrix to angle and axis}{7}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}From rotation angle and axis to rotation matrix}{8}{subsubsection.2.1.2}
+\contentsline {subsection}{\numberline {2.2}Quaternion and spatial rotation}{8}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Definition}{9}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Features and properties}{9}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Comparison between quaternion and common rotation matrix}{10}{subsubsection.2.2.3}
+\contentsline {subsection}{\numberline {2.3}Skew-symmetric matrix and rotation}{10}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Eigenvalue decomposition}{10}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}3-vector's skew-symmetric form}{10}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Relationship between skew-symmetric matrix and rotation}{11}{subsubsection.2.3.3}
+\contentsline {subsubsection}{\numberline {2.3.4}Geometric interpretation of 3-by-3 skew-symmetric rotation}{12}{subsubsection.2.3.4}
+\contentsline {subsubsection}{\numberline {2.3.5}Specific form of skew-symmetric rotation}{13}{subsubsection.2.3.5}
+\contentsline {section}{\numberline {3}Linear Least-squares minimization}{14}{section.3}
+\contentsline {section}{\numberline {4}Non-linear minimization: iterative estimation}{15}{section.4}
+\contentsline {subsection}{\numberline {4.1}Newton iteration}{15}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Weighted iteration}{16}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Gauss-Newton method}{16}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Gradient descent method}{17}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Levenberg-Marquardt method}{17}{subsection.4.5}
+\contentsline {section}{\numberline {5}2D projective geometry and transformation}{18}{section.5}
+\contentsline {subsection}{\numberline {5.1}Line and point}{18}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Definition and properties}{18}{subsubsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2}Intersection}{18}{subsubsection.5.1.2}
+\contentsline {subsubsection}{\numberline {5.1.3}Points at infinity and line at infinity}{19}{subsubsection.5.1.3}
+\contentsline {subsection}{\numberline {5.2}Projective transformations}{19}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Projective transformation between planes}{20}{subsubsection.5.2.1}
+\contentsline {subsection}{\numberline {5.3}Conics}{21}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Duality and dual conics}{23}{subsubsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.2}Transformed conic}{23}{subsubsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.3}The pole$-$polar relationship}{23}{subsubsection.5.3.3}
+\contentsline {subsection}{\numberline {5.4}A hierarchy of projective transformations}{24}{subsection.5.4}
+\contentsline {subsubsection}{\numberline {5.4.1}Isometries}{24}{subsubsection.5.4.1}
+\contentsline {subsubsection}{\numberline {5.4.2}Similarity transformations}{25}{subsubsection.5.4.2}
+\contentsline {subsubsection}{\numberline {5.4.3}Affine transformations}{25}{subsubsection.5.4.3}
+\contentsline {subsubsection}{\numberline {5.4.4}Projective transformations}{26}{subsubsection.5.4.4}
+\contentsline {subsection}{\numberline {5.5}Remove projective distortion from a perspective image of a global plane}{26}{subsection.5.5}
+\contentsline {subsubsection}{\numberline {5.5.1}Remove entire projective distortion}{28}{subsubsection.5.5.1}
+\contentsline {subsubsection}{\numberline {5.5.2}Affine rectification}{28}{subsubsection.5.5.2}
+\contentsline {subsubsection}{\numberline {5.5.3}Metric rectification}{31}{subsubsection.5.5.3}
+\contentsline {section}{\numberline {6}3D projective geometry and transformation}{36}{section.6}
+\contentsline {subsection}{\numberline {6.1}3D Points and planes}{36}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Quadrics}{36}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}The hierarchy of 3D Projective transformation}{37}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Remove 3D projective distortions}{37}{subsection.6.4}
+\contentsline {subsubsection}{\numberline {6.4.1}Plane at infinity}{37}{subsubsection.6.4.1}
+\contentsline {subsubsection}{\numberline {6.4.2}Absolute conic}{38}{subsubsection.6.4.2}
+\contentsline {subsubsection}{\numberline {6.4.3}Absolute dual conic}{39}{subsubsection.6.4.3}
